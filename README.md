@@ -1,4 +1,6 @@
-# ios102-lab6-spring23
+# ios102-lab6-spring23 
+
+Lab 6 from Mobile Apps Development (BeReal). Learning to implement Back4App in your app.
 
 TODO// Update README with new lab 6 gif
 
